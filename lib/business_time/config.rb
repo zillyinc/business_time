@@ -1,4 +1,5 @@
 require 'active_support/core_ext'
+require 'sorted_set'
 
 module BusinessTime
 
